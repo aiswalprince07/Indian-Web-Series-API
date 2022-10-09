@@ -2086,5 +2086,28 @@
     "episodeCount": 80,
     "seasons": 8,
     "releaseDate": "April 17, 2011"
-  }
+  },
+  {
+    "id": 106,
+      "name": "Rudra:The Edge of Darkness",
+      "rating": 6.7,
+      "description": "The Crime thriller follows a small town boy whose life goes upside down after he's relentessly chased by a local politician daughter.",
+      "category": ["Drama", "Thriller", "Action"],
+      "platform": "Netflix",
+      "casting": {
+          "actors": [
+            "Ajay Dewgan",
+            "Ashwini Kalsekar",
+            "Raashi Khanna",
+            "Esha Deol"
+            
+          ],
+          "director": ["Rajesh Mapuskar"]
+      },
+      "poster": "https://www.imdb.com/title/tt14486948/mediaviewer/rm4036104961/?ref_=tt_ov_i",
+      "episodeCount": 6,
+      "seasons": 1,
+      "releaseDate": "4 March 2022"
+    }
+
 ]
